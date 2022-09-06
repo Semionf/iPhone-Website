@@ -1,0 +1,48 @@
+img {
+  border-radius: 100px;
+  float: left;
+}
+p {
+  color: blue;
+  font-size: larger;
+}
+.blodText {
+  font-weight: bold;
+}
+button {
+  border-radius: 10px;
+  border-color: aqua;
+  float: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+#newiPhone {
+  border-width: 5px;
+  border-radius: 20px;
+  border-color: red;
+  text-align: center;
+  float: center;
+}
+
+table {
+  width: 50%;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: blue;
+}
+
+#tableAtt {
+  text-align: center;
+  background-color: aqua;
+}
+
+#iPhone14 {
+  background-color: red;
+}
